@@ -5,7 +5,11 @@
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "spectacle-scripts": "2.3.0"
+    "spectacle-scripts": "2.3.0",
+    "tracking": "github:Mazuh/tracking.js",
+    "vertinho": "^0.3.0",
+    "video-stream-merger": "^3.0.2",
+    "webrtc-adapter": "^7.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
